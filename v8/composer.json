@@ -1,0 +1,10 @@
+{
+    "name": "stm_vehicles_listing/v8",
+    "description": "Stm vehicles listing",
+    "require": {},
+    "autoload": {
+    },
+    "config": {
+        "platform-check": false
+    }
+}
